@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H4armin
 - 👀 I’m interested in Creativity
-- 🌱 I’m currently learning All Update about Designing and Devlopment
+- 🌱 I’m currently working on forntend dev.
 - 📫 How to reach me From E-mail 
 official mail - harminbhankhariya@gmail.com
 
