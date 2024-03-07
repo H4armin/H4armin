@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=h4armin&label=Profile%20views&color=0e75b6&style=flat" alt="h4armin" /> 
 </p>
 
-- 🌱 I’m currently learning **Next JS, Typescript**
+- 🌱 I’m currently learning **React JS, Typescript**
 - 📫 How to reach me: [harminbhankhariya@gmail.com](mailto:harminbhankhariya@gmail.com)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1_iXJ7fqUct2SZlvTOm0k6543RDOQM9wJ/view?usp=sharing)
+- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1_iXJ7fqUct2SZlvTOm0k6543RDOQM9wJ/view?usp=sharing](https://drive.google.com/file/d/1zJhguiEvNscg6vWOWUvZ0OvGPrO32Br0/view?usp=drive_link))
 
 ### Connect with me:
 <p align="left">
